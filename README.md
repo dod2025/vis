@@ -2,6 +2,13 @@
 
 
 <table>
+  <thead>
+    <tr>
+      <th style="width: 150px;">Prompt</th>
+      <th>Original</th>
+      <th>Ours</th>
+    </tr>
+  </thead>
   <tbody>
     <tr>
       <td>A wooden bench is sitting next to a grassy field.</td>
